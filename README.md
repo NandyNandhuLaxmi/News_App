@@ -1,6 +1,6 @@
 # news
 
-A new Flutter project.
+![Frame 43](https://user-images.githubusercontent.com/70564915/108350103-cd536980-7209-11eb-9ae8-28cb1daf6d1d.png)
 
 ## Getting Started
 
